@@ -68,35 +68,6 @@
 
 ---
 
-## 💬 Quote
-> “First, solve the problem. Then, write the code.” – John Johnson
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StargazyP&show_icons=true&theme=radical"/>
-</p>
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StargazyP&theme=radical"/>
-</p>
-
-### ⚡ Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StargazyP&layout=compact"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StargazyP&theme=radical"/>
-</p>
-
----
-
 ## 🐍 A Snake Eating My Contributions Graph
 ![Snake animation](https://github.com/StargazyP/StargazyP/blob/output/github-contribution-grid-snake.svg)
 
