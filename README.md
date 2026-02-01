@@ -1,4 +1,4 @@
-<h3 align="center">Hi, Backend & Full-Stack Developer</h3>
+<h3 align="center">Hi, I'm Backend & Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/StargazyP">
